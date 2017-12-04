@@ -1,5 +1,5 @@
-## 快速安装
-# ubuntu14.04安装
+# 快速安装
+## ubuntu14.04安装
 * `apt-get update` 更新ubuntu软件包缓存
 * `apt-get install apt-transport-https ca-certificates curl software-prpperties-common` 添加使用HTTPS传输的软件包以及CA证书
 * `curl -fsSL https://mirrors.ustc.edu.cn/docker-ce/linux/ubuntu/gpg | sudo apt-key add -` 添加软件源的GPG密钥
@@ -9,6 +9,6 @@
 * `groupadd docker` 建立docker用户组
 * `usermod -aG docker $USER` 将当前用户加入docker用户组
 
-# win10安装
+## win10安装
 * [点击链接下载Docker Ce](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)
 * 双击运行，然后下一步下一步，简单的没话说
