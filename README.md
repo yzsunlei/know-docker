@@ -33,5 +33,5 @@
 ### 实践应用
 * [项目实践](#docs/practice/placeholder)
 
-## 扩展延伸
+### 扩展延伸
 * [相关链接](#docs/extend/links)
