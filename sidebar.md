@@ -24,10 +24,10 @@
 * [底层实现](#docs/deep/actualize)
 
 ## 实践应用
-* [项目实践](#docs/pratice/placeholder)
+* [项目实践](#docs/practice/placeholder)
 
 ## 扩展延伸
-* [扩展知识](#docs/extend/placeholder)
+* [相关链接](#docs/extend/links)
 
 ## 其他
 - [源码](http://github.com/yzsunlei/know-docker/)
